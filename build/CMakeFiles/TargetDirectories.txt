@@ -1,0 +1,5 @@
+/Users/jd/dev/consulting/cpp_pbr_renderer/build/CMakeFiles/glad.dir
+/Users/jd/dev/consulting/cpp_pbr_renderer/build/CMakeFiles/tinygltf.dir
+/Users/jd/dev/consulting/cpp_pbr_renderer/build/CMakeFiles/PBRRenderer.dir
+/Users/jd/dev/consulting/cpp_pbr_renderer/build/CMakeFiles/edit_cache.dir
+/Users/jd/dev/consulting/cpp_pbr_renderer/build/CMakeFiles/rebuild_cache.dir
